@@ -3,7 +3,7 @@
 # Publication date: 2023-12-09
 #
 # This data feed provides approximate geo locations for a subset of
-# 1C Limited IP space, and the data included in this feed may be used only
+# 1C Limited IP space and the data included in this feed may be used only
 # for improving the accuracy of Geo:IP lookups 
 210.79.184.0/28,NZ,NZ-AUK,Auckland,
 210.79.184.16/29,NZ,NZ-NTL,Karikari Peninsula,
